@@ -140,8 +140,4 @@ import os
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-import os
-from dotenv import load_dotenv
 
-load_dotenv()
-OPENAI_API_KEY = os.getenv("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")
