@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Past Skin Analyses</h2>
+<table>
+    <tr><th>Image</th><th>Condition</th><th>Date</th></tr>
+    {% for analysis in analyses %}
+    <tr>
+        <td><img src="{{ analysis.image.url }}" width="100"></td>
+        <td>{{ analysis.condition }}</td>
+        <td>{{ analysis.uploaded_at }}</td>
+    </tr>
+    {% endfor %}
+</table>
+
+</body>
+</html>

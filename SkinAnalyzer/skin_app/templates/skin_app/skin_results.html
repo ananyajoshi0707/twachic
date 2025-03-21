@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+    <h2>Skin Analysis Results</h2>
+    <img src="{{ analysis.image.url }}" alt="Uploaded Image">
+    <p><strong>Condition:</strong> {{ analysis.condition }}</p>
+    <p><strong>Recommendations:</strong> {{ analysis.recommendations }}</p>
+    <p><strong>Recommended Dermatologist:</strong> {{ dermatologist }}</p>
+
+     
+</body>
+</html>
