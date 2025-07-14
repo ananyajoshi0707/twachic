@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Media/uploads
+media/
+
+# SQLite DB (if using)
+db.sqlite3
+
+# VS Code settings (optional)
+.vscode/
