@@ -160,7 +160,7 @@ streamlit-tags==1.2.8
 tenacity==9.0.0
 tensorboard==2.19.0
 tensorboard-data-server==0.7.2
-tensorflow==2.19.0
+tensorflow==2.13.0
 termcolor==2.5.0
 thinc==8.3.3
 tokenizers==0.21.0
