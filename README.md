@@ -1,4 +1,4 @@
-# 🧴✨ Twachic – AI-Powered Skin Health Checker
+# 🧴✨ Twachic – AI-Powered Skin Health Analyzer
 
 **Twachic** is a smart web-based AI skin analyzer that helps users **detect common skin issues** like acne, pigmentation, and dryness. It uses  the **Gemini API** to provide **personalized skincare suggestions**. Just upload a photo — and let AI guide your glow!
 
