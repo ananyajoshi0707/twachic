@@ -31,5 +31,9 @@ In today’s digital age, skincare meets AI. **Twachic** bridges the gap between
 | 🎨 Frontend    | HTML, CSS (via Django Templates)     |
 
 ---
+## 📸 Screenshots
+
+
+---
 ⭐️ Give it a Star!
 If you like this project, please consider giving it a ⭐️ on GitHub — your support means a lot!
