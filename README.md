@@ -33,9 +33,10 @@ In today’s digital age, skincare meets AI. **Twachic** bridges the gap between
 ---
 ## 📸 Screenshots
 
-![UI ] (screenshot/ss1.png)
-![Upload] (screenshot/ss2.png)
-![Result] (screenshot/ss3.png)
+![UI](screenshot/ss1.png)  
+![Upload](screenshot/ss2.png)  
+![Result](screenshot/ss3.png)
+
 
 
 ---
